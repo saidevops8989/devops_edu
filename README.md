@@ -173,6 +173,8 @@ Pulling the changes from the remote branch after cloning
         git diff origin/master
 
         git merge origin/master
+<img width="549" alt="Screenshot 2025-04-25 at 7 49 57 AM" src="https://github.com/user-attachments/assets/1b2cedde-b10e-416a-94c1-d6ffc7a44e55" />
+
         
         ABOVE BOTH  COMMANDS CAN BE DONE IN SINGLE CMD with
 
