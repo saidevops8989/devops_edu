@@ -1,5 +1,7 @@
 #####AUTHENTCATING REPOS WITH SSHKEYS INSTEAD OF TOKENS#######
 
+# su -i                  #change to root user first
+
 #ssh-keygen -t rsa                                       #this cmd generates the keys
 
 #cat /root/.ssh/id_rsa.pub                               #cat this key and we need to copy this on github->settings->ssh&gpgkeys->newkey->givekeyname and psate they key
